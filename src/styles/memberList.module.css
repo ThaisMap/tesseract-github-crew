@@ -1,0 +1,12 @@
+.container {
+  width: 30rem;
+  height: 85vh;
+  padding-bottom: 0.5rem;
+  overflow-y: scroll;
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.container::-webkit-scrollbar {
+  display: none;
+}

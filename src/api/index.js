@@ -40,7 +40,7 @@ const dummies = {
   },
   memberInfo: {
     name: "Thais Maria",
-    public_repos: 16,
+    public_repos: 17,
     followers: 0,
     created_at: "2014-09-23T12:10:06Z",
   }
