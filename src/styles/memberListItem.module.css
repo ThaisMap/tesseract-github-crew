@@ -1,0 +1,19 @@
+.card {
+  display: flex;
+  align-items: center;
+  background-color: #fff;
+  border: 1px solid #1cb3ba;
+  width: 20rem;
+  margin: 0.5rem;
+}
+
+.avatar {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  margin: 8px;
+}
+
+.login {
+  color: #1cb3ba;
+}
